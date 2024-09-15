@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Trang điểm làm đẹp - Chia sẻ kiến thức, đam mê làm đẹp
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Trang Điểm Làm Đẹp <https://trangdiemlamdep.com/>`_ – Nơi chia sẻ kiến thức về trang sức, mỹ phẩm cho phái đẹp. Đây cũng là không gian kết nối, thảo luận và niềm đam mê làm đẹp, bí quyết chăm sóc bản thân. Hãy để trang điểm làm đẹp giúp bạn tỏa sáng và cảm thấy tuyệt vời hơn mỗi ngày.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 297 Lê Trọng Tấn, Tây Thạnh, Tân Phú, Hồ Chí Minh
 
-   This project is under active development.
+Website: https://trangdiemlamdep.com/ 
 
-Contents
---------
+Email: trangdiemlamdep.info@gmail.com
 
-.. toctree::
+Hotline: +84909627189
 
-   usage
-   api
+#myphamlamdep #trangsuclamdep #trangdiemlamdep #phukienthoitrang #camnanglamdep
